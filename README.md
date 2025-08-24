@@ -1,5 +1,6 @@
 # Regalo Appunti Website BACKEND
 PoliTO Regalo Appunti back-end
+(website using this backend: https://polito-appunti.vercel.app/)
 
 Following, APIs description
 (every single API returns a JSON answer)
